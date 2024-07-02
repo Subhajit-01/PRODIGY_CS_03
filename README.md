@@ -20,9 +20,9 @@ The **Password Complexity Checker** is a lightweight tool that evaluates the str
    git clone https://github.com/Subhajit-01/PRODIGY_CS_03.git
    ```
 2. Change Directory:
-  ```bash
+   ```bash
    cd PRODIGY_CS_03
-  ```
+   ```
 3. Run the checker:
    ```bash
    python Password_Strength.py
